@@ -16,3 +16,7 @@ sample.zip-
 .challenge-2018.torrent
 unofficial-phase-results.csv
 new-arousals.zip
+node_modules
+.ipynb_checkpoints
+tmux-client-14957.log
+yarn-error.log
